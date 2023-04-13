@@ -1,0 +1,6 @@
+2023-04-11T19:04:02+00:00 CRITICAL Uncaught Error: Call to undefined function Indeed\Uap\imagecreatefrompng() in C:\xampp\htdocs\wordpress\apurva\wp-content\plugins\indeed-affiliate-pro\classes\CropImage.php:203
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\apurva\wp-content\plugins\indeed-affiliate-pro\public\ajax-upload.php(78): Indeed\Uap\CropImage->cropImage(Array)
+#1 {main}
+  thrown in C:\xampp\htdocs\wordpress\apurva\wp-content\plugins\indeed-affiliate-pro\classes\CropImage.php on line 203
+
